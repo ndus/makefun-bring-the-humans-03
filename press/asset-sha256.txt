@@ -1,0 +1,3 @@
+SHA-256 of press overlays (copied from /tmp/press-03 after direct curl was blocked):
+7e4419566176002f68c52d30ef2ebaf98a9ccd5f361285afa6168d6f965dac53  makefun-badge-9x16.png
+286b76c671fa3bf3b1580a7c71675d7b7e502f4fb374b56d30f1104044808cd1  makefun-card-9x16-transparent.webm
